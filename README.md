@@ -1,2 +1,2 @@
 # Medibot
-medical diseases prediction
+Diseases prediction and medicine reminder
